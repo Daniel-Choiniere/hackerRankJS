@@ -34,14 +34,12 @@ function breakingRecords(scores) {
 
     for (let i = 0; i < scores.length; i++)
     {
-        if (scores[i] < currentLow)
-        {
+        if (scores[i] < currentLow) {
 
             currentLow = scores[i];
             lowCount++;
         }
-        else if (scores[i] > currentHigh)
-        {
+        else if (scores[i] > currentHigh) {
 
             currentHigh = scores[i];
             highCount++;
