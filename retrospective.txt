@@ -1,0 +1,5 @@
+Time Given: 40min
+Time Left Over: 15min
+
+Retrospective:
+    Broke the problem down into its most basic steps. Intitalized all necessary variables. Coded the logic out, and moved the scope of the return statement around after running in function, had to move out. After completing algorithim I helped two students with their issues, which solidified the logic for me.
